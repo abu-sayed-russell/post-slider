@@ -1,0 +1,27 @@
+{
+    "name": "getweb/post-slider",
+    "description": "Awesome Post Slider Plugin.",
+    "type": "PostSlider",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "abusayedrussell",
+            "email": "abusayedrussell@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "support": {
+        "email": "abusayedrussell@gmail.com"
+    },
+     "autoload": {
+        "psr-4": {
+            "MMWPS\\": "./include"
+        },
+        "files": [
+            "include/Helpers/MMWPS_Common_Helper.php",
+            "include/Helpers/MMWPSFunctionHelper.php"
+            
+        ]
+    }
+}

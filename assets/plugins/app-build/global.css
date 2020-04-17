@@ -1,0 +1,11 @@
+.russell .notice, .mmwps .mmwps-warning{
+  background: #fff;
+  border: 1px solid #dce1ef;
+  border-radius: 4px;
+  position: relative;
+  margin-left: 0;
+  margin-right: 0;
+}
+.russell .mmwps-warning, .mmwps .mmwps-warning{width: 98.5%;}
+.russell .notice p strong, .mmwps .notice p strong{font-weight: 400;color: #4e75ad;}
+.russell .notice p a, .mmwps .notice p a{font-weight: 400!important;color: #4e75ad !important;}

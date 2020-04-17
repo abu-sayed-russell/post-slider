@@ -1,0 +1,9 @@
+/* Slider UI */
+.mmwps-sliderui .ui-widget.ui-widget-content, .mmwps-sliderui .ui-widget-header{background: #d5dadf;border: 1px solid #d5dadf; padding: 0 7px;}
+.mmwps-sliderui .ui-state-default, .mmwps-sliderui .ui-state-hover:hover{background: #03a9f4;border: 1px solid #d5dadf; cursor: pointer;}
+.mmwps-sliderui .ui-state-focus:focus{background: #03a9f4;border: 1px solid #d5dadf;}
+.mmwps-sliderui .ui-state-active:active{background: #03a9f4;border: 1px solid #d5dadf;}
+.mmwps-sliderui .ui-state-default, .mmwps-sliderui .ui-widget-content .ui-state-default{border-radius: 50%;}
+.mmwps-sliderui .ui-slider-horizontal {height: 4px;margin: 12px 0;}
+.mmwps-sliderui .ui-slider-horizontal .ui-slider-handle{top: -7px !important;margin-left: -.6em;}
+.mmwps-sliderui .mini{width: 50px;text-align: center;float: right;}
